@@ -4,3 +4,7 @@ h1 {
 body{
   background-color: rgb(149, 102, 193);
 }
+
+img {
+  width: 200px;
+}
